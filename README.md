@@ -8,16 +8,16 @@
 * Jump on enemies to kill them. Can also kill enemies while dashing
 * Press home key to go into level editor.
 * In level editor:
-** Arrow keys | Move Camera
-** Enter | Confirm choice
-** Backspace | Go back/redo
-** Delete | Delete level element that isn't player or goal
-** Tab | Save changes to file
-** P | Add platform
-** S | Change player spawn
-** E | Change level goal
-** G | Add goomba (enemy)
-** J | Add jump pad
-** P | Add lava pool
-** O | Add one up
-** Home | Exit level editor
+  * Arrow keys | Move Camera
+  * Enter | Confirm choice
+  * Backspace | Go back/redo
+  * Delete | Delete level element that isn't player or goal
+  * Tab | Save changes to file
+  * P | Add platform
+  * S | Change player spawn
+  * E | Change level goal
+  * G | Add goomba (enemy)
+  * J | Add jump pad
+  * P | Add lava pool
+  * O | Add one up
+  * Home | Exit level editor
