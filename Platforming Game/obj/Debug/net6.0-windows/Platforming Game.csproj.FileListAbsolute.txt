@@ -1,0 +1,45 @@
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\Platforming Game.exe
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\Platforming Game.deps.json
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\Platforming Game.runtimeconfig.json
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\Platforming Game.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\Platforming Game.pdb
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\obj\Debug\net6.0-windows\Platforming Game.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\obj\Debug\net6.0-windows\Platforming Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\obj\Debug\net6.0-windows\Platforming Game.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\obj\Debug\net6.0-windows\Platforming Game.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\obj\Debug\net6.0-windows\Platforming Game.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\obj\Debug\net6.0-windows\Platforming Game.csproj.CopyComplete
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\obj\Debug\net6.0-windows\Platforming Game.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\obj\Debug\net6.0-windows\refint\Platforming Game.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\obj\Debug\net6.0-windows\Platforming Game.pdb
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\obj\Debug\net6.0-windows\Platforming Game.genruntimeconfig.cache
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\obj\Debug\net6.0-windows\ref\Platforming Game.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\Content\GameFont.xnb
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\Levels\Level1.json
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\Levels\Level2.json
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\Levels\Level3.json
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\Levels\Level4.json
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\Levels\Level5.json
+C:\Users\alexa\source\repos\Platforming Game\Platforming Game\bin\Debug\net6.0-windows\Levels\Level6.json

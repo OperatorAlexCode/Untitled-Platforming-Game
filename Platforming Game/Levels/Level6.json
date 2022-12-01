@@ -1,0 +1,49 @@
+{
+    "Platforms": [
+        {
+            "x": 30,
+            "y": 450,
+            "width": 130,
+            "height": 10
+        },
+        {
+            "x": 900,
+            "y": 450,
+            "width": 100,
+            "height": 10
+        }
+    ],
+    "PlayerSpawn": "40.0,400.0",
+    "Goal": {
+        "x": 950,
+        "y": 400,
+        "width": 50,
+        "height": 50
+    },
+    "Goombas": [
+    ],
+    "JumpPads": [
+        {
+            "x": 110,
+            "y": 410,
+            "width": 40,
+            "height": 40
+        },
+        {
+            "x": 490,
+            "y": 410,
+            "width": 60,
+            "height": 60
+        }
+    ],
+    "LavaPools": [
+        {
+            "x": -500,
+            "y": 480,
+            "width": 2000,
+            "height": 500
+        }
+    ],
+    "OneUps": [
+    ]
+}
